@@ -57,4 +57,5 @@ print("==================================================================")
 
 maka hasilnya akan menjadi 
 
-![img.png](Picture/img2.0.png)
+![IMG-20221121-WA0069](https://user-images.githubusercontent.com/115763475/202982456-0fc0feb1-fd4b-4cf9-88e7-4d8cad60c336.jpg)
+
