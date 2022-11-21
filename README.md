@@ -10,10 +10,7 @@
 
 Flowchart 
 
-
-
-
-
+![IMG-20221121-WA0066](https://user-images.githubusercontent.com/115763475/202981968-daf12e77-085b-419c-acde-8f538d150fdd.jpg)
 
 Gunakan _While_ untuk memasukkan data secara berulang berulang dan masukkan ```input()```
 
