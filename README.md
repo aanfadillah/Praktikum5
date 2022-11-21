@@ -4,18 +4,13 @@
 
 ## Kelas: TI.22.A3
 
-# Praktikum 5
-
-
-![img.png](Picture/img1.31.png)
-
----
+# praktikum 5
 
 ## Tugas Praktikum 
 
 Flowchart 
 
-![img.png](Picture/Flowchart.png)
+
 
 
 
