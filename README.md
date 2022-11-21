@@ -1,8 +1,8 @@
-Nama : Aan fadillah putra
+## Nama : Aan fadillah putra
 
-NIM : 312210327
+## NIM : 312210327
 
-Kelas: TI.22.A3
+## Kelas: TI.22.A3
 
 # Praktikum 5
 
