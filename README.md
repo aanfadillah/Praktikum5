@@ -14,6 +14,7 @@ Flowchart
 
 
 
+
 Gunakan _While_ untuk memasukkan data secara berulang berulang dan masukkan ```input()```
 
 ```
